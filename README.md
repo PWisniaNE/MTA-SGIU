@@ -1,6 +1,6 @@
 # System graficznego interfejsu użytkownika do MTA:SA
 
-## DOSTĘPNE GUI
+## AKTUALNIE DOSTĘPNE GUI
 ```
 • Background
 • Button
@@ -24,7 +24,7 @@ obramowka - obramówka do okoła (true(tak)/false(nie))
 disabled - wyłączony(brak możliwości wpisania + przyciemnienie) (true(tak)/false(nie))
 alpha - przejrzystność (zakres 0-255)
 ```
-## DOSTĘPNE FUNKCJE
+## FUNKCJE
 ```
 • dxBackgroundCreate(x,y,w,h,id,text,obramowka)
 • dxBackgroundRemove(id)
