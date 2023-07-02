@@ -3,24 +3,24 @@
 ## DOSTĘPNE GUI
 • Background<br/>
 • Button<br/>
-• Checkbox
-• ComboBox
-• EditBox
-• Font
-• GridList
-• Memo
-• ProgressBar
+• Checkbox<br/>
+• ComboBox<br/>
+• EditBox<br/>
+• Font<br/>
+• GridList<br/>
+• Memo<br/>
+• ProgressBar<br/>
 
 ## DOSTĘPNE FUNKCJE
-x - pozycja "x" na ekranie
-y - pozycja "y" na ekranie
-w - szerokość
-h - wysokość
-id - indywidualna nazwa obiektu
-text - tekst w formacie string
-obramowka - obramówka do okoła - true(tak)/false(nie)
-disabled - wyłączony(brak możliwości wpisania + przyciemnienie) - true(tak)/false(nie)
-alpha - przejrzystność - zakres 0-255
+x - pozycja "x" na ekranie<br/>
+y - pozycja "y" na ekranie<br/>
+w - szerokość<br/>
+h - wysokość<br/>
+id - indywidualna nazwa obiektu<br/>
+text - tekst w formacie string<br/>
+obramowka - obramówka do okoła - true(tak)/false(nie)<br/>
+disabled - wyłączony(brak możliwości wpisania + przyciemnienie) - true(tak)/false(nie)<br/>
+alpha - przejrzystność - zakres 0-255<br/>
 ```
 • dxBackgroundCreate(x,y,w,h,id,text,obramowka)
 • dxBackgroundRemove(id)
