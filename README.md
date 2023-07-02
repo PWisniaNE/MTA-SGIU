@@ -1,8 +1,8 @@
 # System graficznego interfejsu użytkownika do MTA:SA
 
 ## DOSTĘPNE GUI
-• Background
-• Button
+• Background<br/>
+• Button<br/>
 • Checkbox
 • ComboBox
 • EditBox
