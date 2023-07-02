@@ -1,6 +1,6 @@
 # System graficznego interfejsu użytkownika do MTA:SA
 
-### AKTUALNIE DOSTĘPNE GUI
+## AKTUALNIE DOSTĘPNE GUI
 ```
 • Background
 • Button
