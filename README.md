@@ -11,7 +11,7 @@
 • Memo<br/>
 • ProgressBar<br/>
 
-## DOSTĘPNE FUNKCJE
+## OPIS ZMIENNYCH
 x - pozycja "x" na ekranie<br/>
 y - pozycja "y" na ekranie<br/>
 w - szerokość<br/>
@@ -21,6 +21,8 @@ text - tekst w formacie string<br/>
 obramowka - obramówka do okoła - true(tak)/false(nie)<br/>
 disabled - wyłączony(brak możliwości wpisania + przyciemnienie) - true(tak)/false(nie)<br/>
 alpha - przejrzystność - zakres 0-255<br/>
+
+## DOSTĘPNE FUNKCJE
 ```
 • dxBackgroundCreate(x,y,w,h,id,text,obramowka)
 • dxBackgroundRemove(id)
