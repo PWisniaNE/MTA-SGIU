@@ -1,6 +1,7 @@
 # System graficznego interfejsu użytkownika do MTA:SA
 
 ## DOSTĘPNE GUI
+```
 • Background<br/>
 • Button<br/>
 • Checkbox<br/>
@@ -10,8 +11,9 @@
 • GridList<br/>
 • Memo<br/>
 • ProgressBar<br/>
-
+```
 ## OPIS ZMIENNYCH
+```
 x - pozycja "x" na ekranie<br/>
 y - pozycja "y" na ekranie<br/>
 w - szerokość<br/>
@@ -21,7 +23,7 @@ text - tekst w formacie string<br/>
 obramowka - obramówka do okoła (true(tak)/false(nie))<br/>
 disabled - wyłączony(brak możliwości wpisania + przyciemnienie) (true(tak)/false(nie))<br/>
 alpha - przejrzystność (zakres 0-255)<br/>
-
+```
 ## DOSTĘPNE FUNKCJE
 ```
 • dxBackgroundCreate(x,y,w,h,id,text,obramowka)
