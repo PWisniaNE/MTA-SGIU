@@ -18,9 +18,9 @@ w - szerokość<br/>
 h - wysokość<br/>
 id - indywidualna nazwa obiektu<br/>
 text - tekst w formacie string<br/>
-obramowka - obramówka do okoła - true(tak)/false(nie)<br/>
-disabled - wyłączony(brak możliwości wpisania + przyciemnienie) - true(tak)/false(nie)<br/>
-alpha - przejrzystność - zakres 0-255<br/>
+obramowka - obramówka do okoła (true(tak)/false(nie))<br/>
+disabled - wyłączony(brak możliwości wpisania + przyciemnienie) (true(tak)/false(nie))<br/>
+alpha - przejrzystność (zakres 0-255)<br/>
 
 ## DOSTĘPNE FUNKCJE
 ```
