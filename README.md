@@ -74,4 +74,5 @@ alpha - przejrzystność - zakres 0-255<br/>
 • dxScrollCreate
 • dxScrollRemove
 • dxScrollAlpha
-• dxScrollPosition```
+• dxScrollPosition
+```
