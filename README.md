@@ -20,7 +20,7 @@ w(float) - szerokość elementu
 h(float) - wysokość elementu
 id(string) - indywidualna nazwa obiektu
 text(string) - tekst
-frame(boolean) - obramówka do okoła
+frame(boolean) - obramówka dookoła
 disabled(boolean) - brak możliwości użytkowania + przyciemnienie
 alpha(int) - przejrzystność elementu
 state(boolean) - ustawienie pozycji elementu na zaznaczony/nie zaznaczony
