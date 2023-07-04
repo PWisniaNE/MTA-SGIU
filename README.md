@@ -71,23 +71,23 @@ alpha - przejrzystność (zakres 0-255)
 • dxGridlistGetOption(id)	
 • dxGridlistGetOptionNumber(id)	 	
 
-• dxMemoCreate
-• dxMemoRemove
-• dxMemoAlpha
-• dxMemoDisabled	
-• dxMemoSetText
-• dxMemoGetText
+• dxMemoCreate(x,y,w,h,id)	 
+• dxMemoRemove(id)	 
+• dxMemoAlpha(id,alpha)	
+• dxMemoDisabled(id,disabled)		
+• dxMemoSetText(id,text)	 
+• dxMemoGetText(id)	 
 	
-• dxProgressbarCreate
-• dxProgressbarRemove
-• dxProgressbarAlpha
-• dxProgressbarDisabled	
-• dxProgressbarGetProgress
-• dxProgressbarRestart
+• dxProgressbarCreate(x,y,w,h,id,start,speed)	
+• dxProgressbarRemove(id)	 
+• dxProgressbarAlpha(id,alpha)	 
+• dxProgressbarDisabled(id,disabled)	 
+• dxProgressbarGetProgress(id)	
+• dxProgressbarRestart(id)	
 	
-• dxScrollCreate
-• dxScrollRemove
-• dxScrollAlpha
-• dxScrollDisabled	
-• dxScrollGetPosition
+• dxScrollCreate(x,y,w,h,id)	 
+• dxScrollRemove(id)	 
+• dxScrollAlpha(id,alpha)	
+• dxScrollDisabled(id,disabled)		
+• dxScrollGetPosition(id)	
 ```
