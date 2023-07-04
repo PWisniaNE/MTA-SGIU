@@ -14,21 +14,29 @@
 ```
 ## OPIS ZMIENNYCH
 ```
-x - pozycja "x" na ekranie
-y - pozycja "y" na ekranie
-w - szerokość
-h - wysokość
-id - indywidualna nazwa obiektu
-text - tekst w formacie string
-obramowka - obramówka do okoła (true(tak)/false(nie))
-disabled - wyłączony(brak możliwości wpisania + przyciemnienie) (true(tak)/false(nie))
-alpha - przejrzystność (zakres 0-255)
+x(float) - pozycja "x" na ekranie
+y(float) - pozycja "y" na ekranie
+w(float) - szerokość
+h(float) - wysokość
+id(string) - indywidualna nazwa obiektu
+text(string) - tekst
+frame(boolean) - obramówka do okoła
+disabled(boolean) - brak możliwości użytkowania + przyciemnienie
+alpha(int) - przejrzystność elementu
+state(boolean) - ustawienie pozycji elementu na zaznaczony/nie zaznaczony
+default(boolean) - ustawienie odpowiedzialne za ustawienie dodawanej opcji na zaznaczoną
+option(string) - tekst dodawanej opcji
+number(int) - numer dodawanej opcji
+masked(boolean) - ustawienie odpowiedzialne za zamaskowanie tekstu w checkboxie
+textscale(int) - rozmiar skalowania tekstu w przypadku gridlist
+start(boolean) - ustawienie odpowiedzialne za automatyczne włączenie progressbara po stworzeniu
+speed(float) - czas w którym progressbar ma zostać załadowany
 ```
 ## FUNKCJE
 ```
-• dxBackgroundCreate(x,y,w,h,id,text,frame)
+• dxBackgroundCreate(x,y,w,h,id,string,frame)	 
 • dxBackgroundRemove(id)	
-• dxBackgroundAlpha(id,alpha)	
+• dxBackgroundAlpha(id,int)	 
 	
 • dxButtonCreate(x,y,w,h,id,text)	
 • dxButtonRemove(id)	 
@@ -65,7 +73,7 @@ alpha - przejrzystność (zakres 0-255)
 • dxGridlistRemove(id)	
 • dxGridlistAlpha(id,alpha)	 
 • dxGridlistDisabled(id,disabled)
-• dxGridlistTextScale(id,scale)	
+• dxGridlistTextScale(id,textscale)	
 • dxGridlistAddOption(id,number,option,default)	 
 • dxGridlistRemoveOption(option)	 
 • dxGridlistGetOption(id)	
@@ -87,7 +95,7 @@ alpha - przejrzystność (zakres 0-255)
 	
 • dxScrollCreate(x,y,w,h,id)	 
 • dxScrollRemove(id)	 
-• dxScrollAlpha(id,alpha)	
-• dxScrollDisabled(id,disabled)		
-• dxScrollGetPosition(id)	
+• dxScrollAlpha(id,int)
+• dxScrollDisabled(id,boolean)
+• dxScrollGetPosition(id)		
 ```
