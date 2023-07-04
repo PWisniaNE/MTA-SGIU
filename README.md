@@ -13,7 +13,7 @@
 • ProgressBar
 ```
 ## OPIS ZMIENNYCH
-###### Liczby zmiennoprzecinkowe (0.45,11.5,145.56)
+##### Liczby zmiennoprzecinkowe (0.45,11.5,145.56)
 ```
 x(float) - pozycja "x" na ekranie
 y(float) - pozycja "y" na ekranie
@@ -21,19 +21,19 @@ w(float) - szerokość elementu
 h(float) - wysokość elementu
 speed(float) - czas w którym progressbar ma zostać załadowany
 ```
-### Liczby całkowite (1,2,3)
+##### Liczby całkowite (1,2,3)
 ```
 alpha(int) - przejrzystność elementu
 number(int) - numer dodawanej opcji
 textscale(int) - rozmiar skalowania tekstu w przypadku gridlist
 ```
-### Tekstowy typ danych (AbCd)
+##### Tekstowy typ danych (AbCd)
 ```
 id(string) - indywidualna nazwa obiektu
 text(string) - tekst
 option(string) - tekst dodawanej opcji
 ```
-### Logiczny typ danych (true/false)
+##### Logiczny typ danych (true/false)
 ```
 frame(boolean) - obramówka dookoła
 disabled(boolean) - brak możliwości użytkowania + przyciemnienie
