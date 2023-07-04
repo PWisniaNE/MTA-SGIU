@@ -16,8 +16,8 @@
 ```
 x(float) - pozycja "x" na ekranie
 y(float) - pozycja "y" na ekranie
-w(float) - szerokość
-h(float) - wysokość
+w(float) - szerokość elementu
+h(float) - wysokość elementu
 id(string) - indywidualna nazwa obiektu
 text(string) - tekst
 frame(boolean) - obramówka do okoła
