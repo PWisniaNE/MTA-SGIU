@@ -18,19 +18,22 @@ x(float) - pozycja "x" na ekranie
 y(float) - pozycja "y" na ekranie
 w(float) - szerokość elementu
 h(float) - wysokość elementu
+speed(float) - czas w którym progressbar ma zostać załadowany
+
+alpha(int) - przejrzystność elementu
+number(int) - numer dodawanej opcji
+textscale(int) - rozmiar skalowania tekstu w przypadku gridlist
+
 id(string) - indywidualna nazwa obiektu
 text(string) - tekst
+option(string) - tekst dodawanej opcji
+
 frame(boolean) - obramówka dookoła
 disabled(boolean) - brak możliwości użytkowania + przyciemnienie
-alpha(int) - przejrzystność elementu
 state(boolean) - ustawienie pozycji elementu na zaznaczony/nie zaznaczony
 default(boolean) - ustawienie odpowiedzialne za ustawienie dodawanej opcji na zaznaczoną
-option(string) - tekst dodawanej opcji
-number(int) - numer dodawanej opcji
 masked(boolean) - ustawienie odpowiedzialne za zamaskowanie tekstu w checkboxie
-textscale(int) - rozmiar skalowania tekstu w przypadku gridlist
 start(boolean) - ustawienie odpowiedzialne za automatyczne włączenie progressbara po stworzeniu
-speed(float) - czas w którym progressbar ma zostać załadowany
 ```
 ## FUNKCJE
 ```
