@@ -63,7 +63,7 @@ speed(float) - czas w którym progressbar ma zostać załadowany
 • dxEditboxRemove(id)
 • dxEditboxAlpha(id,alpha)	
 • dxEditboxDisabled(id,disabled)	 	
-• dxEditboxMasked(id,variable)
+• dxEditboxMasked(id,masked)
 • dxEditboxGetText(id)	 
 	
 • dxFontCreate(id,file,size,bold,quality)		
@@ -95,7 +95,7 @@ speed(float) - czas w którym progressbar ma zostać załadowany
 	
 • dxScrollCreate(x,y,w,h,id)	 
 • dxScrollRemove(id)	 
-• dxScrollAlpha(id,int)
-• dxScrollDisabled(id,boolean)
+• dxScrollAlpha(id,alpha)
+• dxScrollDisabled(id,disabled)
 • dxScrollGetPosition(id)		
 ```
