@@ -13,7 +13,7 @@
 • ProgressBar
 ```
 ## OPIS ZMIENNYCH
-### Liczby zmiennoprzecinkowe (0.45,11.5,145.56)
+##### Liczby zmiennoprzecinkowe (0.45,11.5,145.56)
 ```
 x(float) - pozycja "x" na ekranie
 y(float) - pozycja "y" na ekranie
