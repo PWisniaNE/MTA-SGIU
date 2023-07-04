@@ -34,7 +34,7 @@ speed(float) - czas w którym progressbar ma zostać załadowany
 ```
 ## FUNKCJE
 ```
-• dxBackgroundCreate(x,y,w,h,id,string,frame)	 
+• dxBackgroundCreate(x,y,w,h,id,text,frame)	 
 • dxBackgroundRemove(id)	
 • dxBackgroundAlpha(id,int)	 
 	
