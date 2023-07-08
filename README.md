@@ -1,5 +1,5 @@
 # System graficznego interfejsu użytkownika do MTA:SA
-
+![alt text](http://url/to/img.png)
 ## AKTUALNIE DOSTĘPNE GUI
 ```
 • Background
