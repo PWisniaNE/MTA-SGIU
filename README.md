@@ -1,5 +1,5 @@
 # System graficznego interfejsu użytkownika do MTA:SA
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png))
 ## AKTUALNIE DOSTĘPNE GUI
 ```
 • Background
