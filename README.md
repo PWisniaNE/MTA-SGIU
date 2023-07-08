@@ -1,5 +1,5 @@
 # System graficznego interfejsu użytkownika do MTA:SA
-Discord: https://discord.gg/ZHbkrMknUP
+Discord: [Klik](https://discord.gg/ZHbkrMknUP)
 ## AKTUALNIE DOSTĘPNE GUI
 ```
 • Background
