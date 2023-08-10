@@ -1,0 +1,93 @@
+<meta>
+	<!-- INFO -->
+    <info name="System graficznego interfejsu użytkownika" author="P.Wiśnia"/>
+    <min_mta_version client="1.5.7-9.20447"></min_mta_version>
+	
+	<!-- KLIENT -->
+    <script src="core.lua" type="client" cache="false"/>	
+    <script src="test.lua" type="client" cache="false"/>		
+    <script src="functions/background.lua" type="client" cache="false"/>		
+    <script src="functions/button.lua" type="client" cache="false"/>	
+    <script src="functions/checkbox.lua" type="client" cache="false"/>	
+    <script src="functions/combo.lua" type="client" cache="false"/>			
+    <script src="functions/editbox.lua" type="client" cache="false"/>	
+    <script src="functions/font.lua" type="client" cache="false"/>		
+    <script src="functions/gridlist.lua" type="client" cache="false"/>					
+    <script src="functions/memo.lua" type="client" cache="false"/>		
+    <script src="functions/progressbar.lua" type="client" cache="false"/>		
+    <script src="functions/scroll.lua" type="client" cache="false"/>				
+	
+	<!-- FONTY -->	
+	<file src="fonts/bold.ttf"/>
+	<file src="fonts/medium.ttf"/>
+	<file src="fonts/light.ttf"/>
+	
+	<!-- STYLE -->		
+	<file src="styles/example.style"/>	
+	
+	<!-- EXPORT -->	
+	<export function="dxBackgroundCreate" type="client"/>
+	<export function="dxBackgroundRemove" type="client"/>
+	<export function="dxBackgroundAlpha" type="client"/>
+	
+	<export function="dxButtonCreate" type="client"/>
+	<export function="dxButtonRemove" type="client"/>
+	<export function="dxButtonAlpha" type="client"/>
+	<export function="dxButtonDisabled" type="client"/>
+	
+	<export function="dxCheckboxCreate" type="client"/>
+	<export function="dxCheckboxRemove" type="client"/>
+	<export function="dxCheckboxAlpha" type="client"/>
+	<export function="dxCheckboxDisabled" type="client"/>
+	<export function="dxCheckboxSetState" type="client"/>
+	<export function="dxCheckboxGetState" type="client"/>
+	
+	<export function="dxComboCreate" type="client"/>
+	<export function="dxComboRemove" type="client"/>
+	<export function="dxComboAlpha" type="client"/>
+	<export function="dxComboDisabled" type="client"/>	
+	<export function="dxComboAddOption" type="client"/>
+	<export function="dxComboRemoveOption" type="client"/>
+	<export function="dxComboGetOption" type="client"/>
+	<export function="dxComboGetOptionNumber" type="client"/>
+
+	<export function="dxEditboxCreate" type="client"/>
+	<export function="dxEditboxRemove" type="client"/>
+	<export function="dxEditboxAlpha" type="client"/>
+	<export function="dxEditboxDisabled" type="client"/>	
+	<export function="dxEditboxMasked" type="client"/>
+	<export function="dxEditboxGetText" type="client"/>
+	
+	<export function="dxFontCreate" type="client"/>	
+	<export function="dxFontGet" type="client"/>		
+	
+	<export function="dxGridlistCreate" type="client"/>
+	<export function="dxGridlistRemove" type="client"/>
+	<export function="dxGridlistAlpha" type="client"/>
+	<export function="dxGridlistDisabled" type="client"/>	
+	<export function="dxGridlistTextScale" type="client"/>		
+	<export function="dxGridlistAddOption" type="client"/>
+	<export function="dxGridlistRemoveOption" type="client"/>
+	<export function="dxGridlistGetOption" type="client"/>
+	<export function="dxGridlistGetOptionNumber" type="client"/>	
+
+	<export function="dxMemoCreate" type="client"/>
+	<export function="dxMemoRemove" type="client"/>
+	<export function="dxMemoAlpha" type="client"/>
+	<export function="dxMemoDisabled" type="client"/>	
+	<export function="dxMemoSetText" type="client"/>
+	<export function="dxMemoGetText" type="client"/>
+	
+	<export function="dxProgressbarCreate" type="client"/>
+	<export function="dxProgressbarRemove" type="client"/>
+	<export function="dxProgressbarAlpha" type="client"/>
+	<export function="dxProgressbarDisabled" type="client"/>	
+	<export function="dxProgressbarGetProgress" type="client"/>
+	<export function="dxProgressbarRestart" type="client"/>
+	
+	<export function="dxScrollCreate" type="client"/>
+	<export function="dxScrollRemove" type="client"/>
+	<export function="dxScrollAlpha" type="client"/>
+	<export function="dxScrollDisabled" type="client"/>	
+	<export function="dxScrollGetPosition" type="client"/>
+</meta>

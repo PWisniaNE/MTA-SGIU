@@ -1,0 +1,24 @@
+// KOLOR TŁA
+kolor_tla_r = 50
+kolor_tla_g = 50
+kolor_tla_b = 50
+// KOLOR TŁA ELEMENTÓW
+kolor_tla_elementow_r = 50
+kolor_tla_elementow_g = 50
+kolor_tla_elementow_b = 50
+// ZMIANA KOLORU PO NAJECHANIU
+kolor_tla_elementow_najechane_r = 80
+kolor_tla_elementow_najechane_g = 80
+kolor_tla_elementow_najechane_b = 80
+// KOLOR WYŁĄCZONEGO ELEMENTU
+kolor_tla_disabled_r = 20
+kolor_tla_disabled_g = 20
+kolor_tla_disabled_b = 20
+// KOLORYSTYKA OGÓLNA (SERWEROWA)
+kolorystyka_ogolna_r = 206
+kolorystyka_ogolna_g = 149
+kolorystyka_ogolna_b = 45
+// KOLOR TEKSTU
+kolor_tekstu_r = 255
+kolor_tekstu_g = 255
+kolor_tekstu_b = 255
